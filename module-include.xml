@@ -1,0 +1,4 @@
+<types>
+  <!--com.jstest.jstest.ux-->
+  <type class="com.jstest.jstest.ux.BJsTestWidget" name="JsTestWidget"/>
+</types>

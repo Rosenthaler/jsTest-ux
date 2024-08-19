@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bajaObjectGraph version="4.0" reversibleEncodingKeySource="none" FIPSEnabled="false" reversibleEncodingValidator="[null.1]=" >
+<p m="b=baja" t="b:Folder">
+  <p m="b=baja" t="b:UnrestrictedFolder" n="webWidgets">
+    <p n="ChartWidget" h="3" m="wb=workbench" t="wb:WebWidget">
+     <p n="layout" m="ui=bajaui" t="ui:Layout" v="0.0,0.0,40.0,110.0"/>
+     <p n="js" t="b:Ord" v="view:jsTest:JsTestWidget"/>
+     <p n="wbViewBinding" h="5" t="wb:WbViewBinding">
+      <p n="ord" t="b:Ord" v="slot:"/>
+     </p>
+     <p n="wsAnnotation" f="r" t="b:WsAnnotation" v="2,2,18"/>
+    </p>
+  </p>
+</p>
+</bajaObjectGraph>
